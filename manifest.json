@@ -1,0 +1,20 @@
+{
+  "short_name": "News見える君",
+  "name": "Newsめっちゃ見れるやで最高やろ？君",
+  "icons": [
+    {
+      "src": "images/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#7E57C2",
+  "display": "standalone",
+  "theme_color": "#7E57C2",
+  "start_url": "/pwa_test/"
+}
